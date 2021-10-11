@@ -1,6 +1,8 @@
-# AngularCrash
+# Angular Crash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+
+This project was based from the tutorial **[Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8&ab_channel=TraversyMedia)** by Traversy Media.
 
 ## Development server
 
